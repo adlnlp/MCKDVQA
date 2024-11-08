@@ -1,1 +1,1 @@
-# MCKD_VQA
+# MCKDVQA

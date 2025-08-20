@@ -4,10 +4,8 @@
       <h2>Authors</h2>
       <p>
         <strong>Shuo Yang</strong><sup>1</sup>,  
-        <strong>Siwen Luo</strong><sup>2</sup>
-        <strong>Soyeon Caren Han</strong><sup>1,*</sup>,  
-
-        <br>
+        <strong>Siwen Luo</strong><sup>2</sup>,
+        <strong>Soyeon Caren Han</strong><sup>1,*</sup>,
       </p>
 </div>
 

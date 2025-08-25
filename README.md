@@ -26,7 +26,7 @@
 <div align="center">
 
 <strong style="font-size: 18px;">Accepted by the 2025 Proceedings of the AAAI Conference on Artificial Intelligence</strong> <br>
-    <strong style="font-size: 18px;">(AAAI 2025) - Best Poster Award</strong>
+    <strong style="font-size: 18px;">(AAAI 2025) - Best Poster Award for Doctorial Consortium </strong>
 </div>
 
 Implementation of [Multimodal Commonsense Knowledge Distillation for Visual Question Answering]([https://aclanthology.org/2025.findings-acl.872/](https://ojs.aaai.org/index.php/AAAI/article/view/35320)). 
@@ -34,14 +34,14 @@ Implementation of [Multimodal Commonsense Knowledge Distillation for Visual Ques
 <p align="center"><img src="MCKD_Architecture.jpeg" width="750" /></p>
 
 ## Updates
-- [08/24/2025]:🎉 Will be open-sourced very soon
+- [08/24/2025]:🎉 We have uploaded the code 
 
 ## Abstract
 Existing Multimodal Large Language Models (MLLMs) and Visual Language Pretrained Models (VLPMs) have shown remarkable performances in general Visual Question Answering (VQA). However, these models struggle with VQA questions that require external commonsense knowledge due to the challenges in generating high-quality prompts and the high computational costs of fine-tuning. In this work, we propose a novel graph-based multimodal commonsense knowledge distillation framework that constructs a unified relational graph over commonsense knowledge, visual objects and questions through a Graph Convolutional Network (GCN) following a teacher-student environment. This proposed framework is flexible with any type of teacher and student models without further fine-tuning, and has achieved competitive performances on the ScienceQA dataset.
 
 
 ## How to Use Multimodal Commonsense Knowledge Distillation for Visual Question Answering
-TBD
+Please follow the instruction in the code to run "Teacher Training", "Student Training" and "Knowledge Distillation" one-by-one.
 
 
 ------

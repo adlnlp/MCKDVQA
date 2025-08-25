@@ -41,7 +41,7 @@ Existing Multimodal Large Language Models (MLLMs) and Visual Language Pretrained
 
 
 ## How to Use Multimodal Commonsense Knowledge Distillation for Visual Question Answering
-Please follow the instruction in the code to run "Teacher Training", "Student Training" and "Knowledge Distillation" one-by-one.
+Please follow the instruction in the code to run "Teacher Training" and "Knowledge Distillation" one-by-one.
 
 
 ------

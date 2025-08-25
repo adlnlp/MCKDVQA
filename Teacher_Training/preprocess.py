@@ -1,8 +1,3 @@
-# Utilities for preprocessing questions
-# Code adopted from
-# https://github.com/facebookresearch/clevr-iep/blob/master/iep/preprocess.py
-
-
 SPECIAL_TOKENS = {
     '<NULL>': 0,
     '<START>': 1,
